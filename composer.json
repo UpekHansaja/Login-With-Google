@@ -1,0 +1,9 @@
+{
+    "config": {
+        "platform-check": false
+    },
+    "require": {
+        "google/apiclient": "^2.0",
+        "vlucas/phpdotenv": "^5.6"
+    }
+}
